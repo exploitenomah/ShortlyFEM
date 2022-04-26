@@ -31,8 +31,9 @@ Users should be able to:
   - The `input` field is empty
 
 ### Screenshot
-
-![](./screenshot.jpg)
+### Mobile View
+![image](https://user-images.githubusercontent.com/70432518/165278934-c82b8f93-6ecf-48c4-a218-08559380dfb0.png)
+### Desktop View![image](https://user-images.githubusercontent.com/70432518/165278797-310a9150-ed3f-4ed8-a5d6-2a8f830ce731.png)
 
 
 ### Links
@@ -56,4 +57,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [Exploit Enomah](https://www.frontendmentor.io/profile/exploitenomah)
-- Twitter - [@yourusername](https://www.twitter.com/queen_exploit)
+- Twitter - [@queen_exploit](https://www.twitter.com/queen_exploit)
