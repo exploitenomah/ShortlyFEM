@@ -1,0 +1,115 @@
+{
+  "nav_links": [
+    {
+      "name": "features",
+      "path": "/features",
+      "sub_paths": [
+        {
+          "name": "link shortening",
+          "path": "/features/shortner"
+        },
+        {
+          "name": "branded links",
+          "path": "/features/branding"
+        },
+        {
+          "name": "analytics",
+          "path": "/features/analytics"
+        }
+      ]
+    },
+    {
+      "name": "pricing",
+      "path": "/pricing"
+    },
+    {
+      "name": "resources",
+      "path": "/resources",
+      "sub_paths": [
+        {
+          "name": "blog",
+          "path": "/resources/blog"
+        },
+        {
+          "name": "developers",
+          "path": "/resources/developers"
+        },
+        {
+          "name": "support",
+          "path": "/resources/support"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "path": "/company",
+      "sub_paths": [
+        {
+          "name": "about",
+          "path": "/company/about"
+        },
+        {
+          "name": "our team",
+          "path": "/company/team"
+        },
+        {
+          "name": "careers",
+          "path": "/company/careers"
+        },
+        {
+          "name": "contact",
+          "path": "/company/contact"
+        }
+      ]
+    }
+  ],
+  "ctas_new_user": [
+    {
+      "name": "login",
+      "path": "/login"
+    },
+    {
+      "name": "sign up",
+      "path": "/sign-up"
+    }
+  ],
+  "socials": [
+    {
+      "name": "facebook",
+      "path": "/",
+      "category": "socials"
+    },
+    {
+      "name": "twitter",
+      "path": "/",
+      "category": "socials"
+    },
+    {
+      "name": "pinterest",
+      "path": "/",
+      "category": "socials"
+    },
+    {
+      "name": "instagram",
+      "path": "/",
+      "category": "socials"
+    }
+  ],
+  "advanced_statistics": [
+    {
+      "stat_title": "brand recognition",
+      "stat_detail": "Boost your brand recognition with each click. Generic Links don't mean a thing. Branded links help instill confidence in your content.",
+      "stat_icon": "/images/icon-brand-recognition.svg"
+    },
+    {
+      "stat_title": "detailed records",
+      "stat_detail": "Gain insights into who is clicking your links. Knowing when and where people engage with your content helps inform better decisions.",
+      "stat_icon": "/images/icon-detailed-records.svg"
+    },
+    {
+      "stat_title": "fully customizable",
+      "stat_detail": "Improve brand awareness and content discoverability through customizable links, supercharging audience engagements.",
+      "stat_icon": "/images/icon-fully-customizable.svg"
+    }
+  ]
+}
