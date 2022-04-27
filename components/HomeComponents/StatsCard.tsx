@@ -1,5 +1,5 @@
 
-import Image from 'next/Image'
+import Image from 'next/image'
 import { HeadingThree } from '../Headings'
 import { PBasic } from '../Paragraphs'
 import { stat } from '../../types/advancedStatsType'
