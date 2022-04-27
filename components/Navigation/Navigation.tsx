@@ -1,5 +1,4 @@
 
-import { MouseEventHandler } from 'react'
 import { GiHamburgerMenu } from 'react-icons/gi'
 import { linkType } from '../../types/linkType'
 import NavDesktop from './NavigationDesktop'
