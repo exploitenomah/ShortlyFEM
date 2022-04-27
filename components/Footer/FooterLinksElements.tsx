@@ -1,5 +1,5 @@
 
-import Link from 'next/Link'
+import Link from 'next/link'
 import type { linkType } from '../../types/linkType'
 import {
   FaFacebook,

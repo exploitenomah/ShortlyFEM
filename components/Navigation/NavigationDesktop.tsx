@@ -1,5 +1,5 @@
 
-import Link from 'next/Link'
+import Link from 'next/link'
 import { navPropTypes } from './Navigation'
 import { RoundCyanLinkBtn } from '../Buttons'
 
